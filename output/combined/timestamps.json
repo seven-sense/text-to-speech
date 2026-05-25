@@ -1,0 +1,456 @@
+{
+  "sampleRate": 48000,
+  "channels": 1,
+  "gapSeconds": 0.4,
+  "totalDuration": 272.11,
+  "entries": [
+    {
+      "id": "counts/01",
+      "text": "one",
+      "style": "count",
+      "start": 0.0,
+      "end": 0.72,
+      "duration": 0.72
+    },
+    {
+      "id": "counts/02",
+      "text": "two",
+      "style": "count",
+      "start": 1.12,
+      "end": 1.84,
+      "duration": 0.72
+    },
+    {
+      "id": "counts/03",
+      "text": "three",
+      "style": "count",
+      "start": 2.24,
+      "end": 3.44,
+      "duration": 1.2
+    },
+    {
+      "id": "counts/04",
+      "text": "four",
+      "style": "count",
+      "start": 3.84,
+      "end": 4.72,
+      "duration": 0.88
+    },
+    {
+      "id": "counts/05",
+      "text": "five",
+      "style": "count",
+      "start": 5.12,
+      "end": 6.24,
+      "duration": 1.12
+    },
+    {
+      "id": "counts/06",
+      "text": "six",
+      "style": "count",
+      "start": 6.64,
+      "end": 7.36,
+      "duration": 0.72
+    },
+    {
+      "id": "counts/07",
+      "text": "seven",
+      "style": "count",
+      "start": 7.76,
+      "end": 8.88,
+      "duration": 1.12
+    },
+    {
+      "id": "counts/08",
+      "text": "eight",
+      "style": "count",
+      "start": 9.28,
+      "end": 10.24,
+      "duration": 0.96
+    },
+    {
+      "id": "counts/09",
+      "text": "nine",
+      "style": "count",
+      "start": 10.64,
+      "end": 11.68,
+      "duration": 1.04
+    },
+    {
+      "id": "counts/10",
+      "text": "ten",
+      "style": "count",
+      "start": 12.08,
+      "end": 13.28,
+      "duration": 1.2
+    },
+    {
+      "id": "counts/11",
+      "text": "eleven",
+      "style": "count",
+      "start": 13.68,
+      "end": 14.88,
+      "duration": 1.2
+    },
+    {
+      "id": "counts/12",
+      "text": "twelve",
+      "style": "count",
+      "start": 15.28,
+      "end": 16.48,
+      "duration": 1.2
+    },
+    {
+      "id": "counts/13",
+      "text": "thirteen",
+      "style": "count",
+      "start": 16.88,
+      "end": 18.0,
+      "duration": 1.12
+    },
+    {
+      "id": "counts/14",
+      "text": "fourteen",
+      "style": "count",
+      "start": 18.4,
+      "end": 19.36,
+      "duration": 0.96
+    },
+    {
+      "id": "counts/15",
+      "text": "fifteen",
+      "style": "count",
+      "start": 19.76,
+      "end": 21.44,
+      "duration": 1.68
+    },
+    {
+      "id": "counts/16",
+      "text": "sixteen",
+      "style": "count",
+      "start": 21.84,
+      "end": 22.88,
+      "duration": 1.04
+    },
+    {
+      "id": "counts/17",
+      "text": "seventeen",
+      "style": "count",
+      "start": 23.28,
+      "end": 24.96,
+      "duration": 1.68
+    },
+    {
+      "id": "counts/18",
+      "text": "eighteen",
+      "style": "count",
+      "start": 25.36,
+      "end": 26.4,
+      "duration": 1.04
+    },
+    {
+      "id": "counts/19",
+      "text": "nineteen",
+      "style": "count",
+      "start": 26.8,
+      "end": 28.0,
+      "duration": 1.2
+    },
+    {
+      "id": "counts/20",
+      "text": "twenty",
+      "style": "count",
+      "start": 28.4,
+      "end": 29.28,
+      "duration": 0.88
+    },
+    {
+      "id": "counts/21",
+      "text": "twenty one",
+      "style": "count",
+      "start": 29.68,
+      "end": 30.88,
+      "duration": 1.2
+    },
+    {
+      "id": "counts/22",
+      "text": "twenty two",
+      "style": "count",
+      "start": 31.28,
+      "end": 32.48,
+      "duration": 1.2
+    },
+    {
+      "id": "counts/23",
+      "text": "twenty three",
+      "style": "count",
+      "start": 32.88,
+      "end": 34.24,
+      "duration": 1.36
+    },
+    {
+      "id": "counts/24",
+      "text": "twenty four",
+      "style": "count",
+      "start": 34.64,
+      "end": 35.76,
+      "duration": 1.12
+    },
+    {
+      "id": "counts/25",
+      "text": "twenty five",
+      "style": "count",
+      "start": 36.16,
+      "end": 38.0,
+      "duration": 1.84
+    },
+    {
+      "id": "counts/26",
+      "text": "twenty six",
+      "style": "count",
+      "start": 38.4,
+      "end": 39.84,
+      "duration": 1.44
+    },
+    {
+      "id": "counts/27",
+      "text": "twenty seven",
+      "style": "count",
+      "start": 40.24,
+      "end": 41.6,
+      "duration": 1.36
+    },
+    {
+      "id": "counts/28",
+      "text": "twenty eight",
+      "style": "count",
+      "start": 42.0,
+      "end": 43.28,
+      "duration": 1.28
+    },
+    {
+      "id": "counts/29",
+      "text": "twenty nine",
+      "style": "count",
+      "start": 43.68,
+      "end": 46.48,
+      "duration": 2.8
+    },
+    {
+      "id": "counts/30",
+      "text": "thirty",
+      "style": "count",
+      "start": 46.88,
+      "end": 47.76,
+      "duration": 0.88
+    },
+    {
+      "id": "phrases/om",
+      "text": "Om",
+      "style": "pranayama",
+      "start": 48.16,
+      "end": 49.12,
+      "duration": 0.96
+    },
+    {
+      "id": "phrases/deep-breath-in",
+      "text": "Deep breath in",
+      "style": "pranayama",
+      "start": 49.52,
+      "end": 51.44,
+      "duration": 1.92
+    },
+    {
+      "id": "phrases/observe-energy",
+      "text": "Palms in your knees. Observe the flow of energy.",
+      "style": "pranayama",
+      "start": 51.84,
+      "end": 55.28,
+      "duration": 3.44
+    },
+    {
+      "id": "phrases/slowly-drop-leg",
+      "text": "Slowly drop the leg down.",
+      "style": "physio",
+      "start": 55.68,
+      "end": 58.24,
+      "duration": 2.56
+    },
+    {
+      "id": "phrases/lower-the-leg",
+      "text": "Lower the leg.",
+      "style": "physio",
+      "start": 58.64,
+      "end": 59.92,
+      "duration": 1.28
+    },
+    {
+      "id": "cues/knee-lock",
+      "text": "Lock the knee. Bend the foot up. Do not lift the leg.",
+      "style": "physio",
+      "start": 60.32,
+      "end": 64.56,
+      "duration": 4.24
+    },
+    {
+      "id": "cues/leg-raise-up",
+      "text": "Raise the leg about ten inches up. Keep the knee locked. Bend the foot up. Do not let the leg oscillate.",
+      "style": "physio",
+      "start": 64.96,
+      "end": 73.28,
+      "duration": 8.32
+    },
+    {
+      "id": "cues/leg-raise-side",
+      "text": "Turn the leg sideways at the same height. Hold the knee tight. Foot stays bent up.",
+      "style": "physio",
+      "start": 73.68,
+      "end": 80.16,
+      "duration": 6.48
+    },
+    {
+      "id": "cues/shoulder-strap",
+      "text": "Pull the strap down with both hands. Spine erect, shoulders relaxed. Breathe normally.",
+      "style": "physio",
+      "start": 80.56,
+      "end": 87.36,
+      "duration": 6.8
+    },
+    {
+      "id": "cues/knee-to-chest",
+      "text": "Pull both knees tightly to your chest. Hands clasped over shins. Keep your head and shoulders relaxed.",
+      "style": "physio",
+      "start": 87.76,
+      "end": 95.04,
+      "duration": 7.28
+    },
+    {
+      "id": "cues/cat-pose",
+      "text": "Arch your back up toward the ceiling. Tuck your head down. Engage your core.",
+      "style": "physio",
+      "start": 95.44,
+      "end": 100.88,
+      "duration": 5.44
+    },
+    {
+      "id": "setup/pranayama-stage-1",
+      "text": "Sit in Vajrasana with spine erect. Place your thumbs on your hipbone, hands parallel to the ground at the navel line. Take a normal breath in, and let go. Take a deep breath in, and let go. When you are ready, the timer will begin.",
+      "style": "pranayama",
+      "start": 101.28,
+      "end": 117.68,
+      "duration": 16.4
+    },
+    {
+      "id": "setup/pranayama-stage-2",
+      "text": "Tuck your thumbs deep into your armpits with hands parallel to the ground. Relax your shoulders, gentle smile, spine erect. Take a normal breath in, and let go. Take a deep breath in, and let go. When you are ready, the timer will begin.",
+      "style": "pranayama",
+      "start": 118.08,
+      "end": 135.2,
+      "duration": 17.12
+    },
+    {
+      "id": "setup/pranayama-stage-3",
+      "text": "Point your elbows toward the ceiling, biceps touching your ears. Place your palms on your shoulder blade, not overlapping. Spine erect. Take a deep breath in, and let go. Take another deep breath in, and let go. When you are ready, the timer will begin.",
+      "style": "pranayama",
+      "start": 135.6,
+      "end": 154.0,
+      "duration": 18.4
+    },
+    {
+      "id": "setup/bhastrika-round",
+      "text": "Palms in loose fists next to your shoulders. Spine erect, chin up, elbows close to the body. Relax your shoulders. Take a normal breath in, and let go. Take a deep breath in, and exhale fully. When you are ready, forceful breath begins.",
+      "style": "pranayama",
+      "start": 154.4,
+      "end": 172.0,
+      "duration": 17.6
+    },
+    {
+      "id": "setup/om-chant",
+      "text": "Slowly come out of Vajrasana and sit comfortably with spine erect. Eyes gently closed. When you are ready, the Om chants will begin.",
+      "style": "pranayama",
+      "start": 172.4,
+      "end": 182.16,
+      "duration": 9.76
+    },
+    {
+      "id": "setup/shoulder-strap-stretch",
+      "text": "Stand straight against a wall. Loop the fabric strap around the front of your shoulders so it crosses behind your back. Clasp both hands behind your back on the strap ends. When you are ready, the timer will begin.",
+      "style": "physio",
+      "start": 182.56,
+      "end": 196.48,
+      "duration": 13.92
+    },
+    {
+      "id": "setup/knee-to-chest-stretch",
+      "text": "Lie flat on your back on a mat or padded surface. Bring both knees up and clasp your hands over your shins. When you are ready, the timer will begin.",
+      "style": "physio",
+      "start": 196.88,
+      "end": 208.08,
+      "duration": 11.2
+    },
+    {
+      "id": "setup/cat-pose",
+      "text": "Position yourself on hands and knees on a mat. Hands under shoulders, knees under hips. When you are ready, the timer will begin.",
+      "style": "physio",
+      "start": 208.48,
+      "end": 218.56,
+      "duration": 10.08
+    },
+    {
+      "id": "setup/knee-lock",
+      "text": "Sit in a chair where your thigh is fully supported. A bigger chair is better. Sit very straight. Lift the leg up just until it is straight. Do not lift the leg higher. Bend the foot up. Lock the knee. When you are ready, the timer will begin.",
+      "style": "physio",
+      "start": 218.96,
+      "end": 238.08,
+      "duration": 19.12
+    },
+    {
+      "id": "setup/leg-raise-hold",
+      "text": "Lie flat on your back, or sit supported as your therapist instructed. You will do two movements per leg: leg up, then leg sideways. Keep the knee locked and the foot bent throughout. When you are ready, the timer will begin.",
+      "style": "physio",
+      "start": 238.48,
+      "end": 255.76,
+      "duration": 17.28
+    },
+    {
+      "id": "setup/leg-raise-transition",
+      "text": "Now the second movement. Same leg, sideways at the same height. When you are ready, the timer will continue.",
+      "style": "physio",
+      "start": 256.16,
+      "end": 265.36,
+      "duration": 9.2
+    },
+    {
+      "id": "ticks/in",
+      "text": "in",
+      "style": "bhastrika",
+      "start": 265.76,
+      "end": 266.88,
+      "duration": 1.12
+    },
+    {
+      "id": "ticks/out",
+      "text": "out",
+      "style": "bhastrika",
+      "start": 267.28,
+      "end": 268.08,
+      "duration": 0.8
+    },
+    {
+      "id": "ui/step-transition",
+      "text": "",
+      "style": "ui",
+      "start": 268.48,
+      "end": 268.83,
+      "duration": 0.35
+    },
+    {
+      "id": "ui/session-complete",
+      "text": "Session complete. Well done.",
+      "style": "ui",
+      "start": 269.23,
+      "end": 272.11,
+      "duration": 2.88
+    }
+  ]
+}

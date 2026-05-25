@@ -1,0 +1,16 @@
+# Runtime dependencies for the Qwen3-TTS desktop converter.
+#
+# For smaller binaries, install the CPU-only build of torch FIRST, then this
+# file (the CI workflow does exactly this):
+#
+#   pip install torch==2.10.0 torchaudio==2.10.0 \
+#       --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements-app.txt
+#
+# qwen-tts also pulls transformers, accelerate, librosa, soundfile,
+# onnxruntime, einops and their dependencies automatically.
+qwen-tts==0.1.1
+torch==2.10.0
+torchaudio==2.10.0
+soundfile==0.13.1
+numpy==2.4.3

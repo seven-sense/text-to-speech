@@ -1,0 +1,12 @@
+ Hey, hi chat GPT. I want to know that few things about this VS code launch with remote debugging manually. What it does? You start VS code electron app with remote debugging port.
+
+ this enables chrome devtops protocol access to vs code internal chromium browser engine why we use it playwright normally automates chromium chroma so vs code is an electron app so to automate it reliably we must attach to cdp without cdp playwright can't see or control the running vs code ui
+
+ open client extension panel manually what it does the user opens the client extension inside vs code client creates a web view a browser like ui planner and inside it an iframe is attached to dom
+
+ why we use it or automation target is client stat input or output ui the iframe doesn't exit until the panel is opened so the step is required before automation can interact with it
+
+ playwright playwright connects to vs code via cdp automated what it does playwright attach to the already running vs code instances using chromium connect over cdp like http 127.0.0.1.9222
+
+ It then selects the active page, the electron window content, why we use it. This avoids launching a separate browser. We are automating the real VS Code session. The user is running exactly as it behaves in production.
+

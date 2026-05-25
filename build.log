@@ -1,0 +1,11 @@
+38 INFO: PyInstaller: 6.20.0, contrib hooks: 2026.5
+38 INFO: Python: 3.11.8
+46 INFO: Platform: macOS-26.1-arm64-arm-64bit
+47 INFO: Python environment: /Volumes/Untitled/Text-to-Speech-TTS/venv
+50 INFO: Removing temporary files and cleaning cache in /Users/grluser/Library/Application Support/pyinstaller
+
+********
+Warning: flash-attn is not installed. Will only run the manual PyTorch version. Please install flash-attn for faster inference.
+********
+ 
+6322 WARNING: Failed to collect submodules for 'transformers.kernels.falcon_mamba' because importing 'transformers.kernels.falcon_mamba' raised: ModuleNotFoundError: No module named 'mamba_ssm'
